@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+
+
+
+
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-0 A {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#header4-a H1 {
+  color: #e41919;
+  text-align: center;
+}
+#header4-a P {
+  color: #5cb85c;
+  text-align: left;
+}
+#header4-a B {
+  font-size: 60px;
+}
+#header4-a .btn {
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
+}
+#msg-box4-d .lead {
+  font-size: 23px;
+}
+#msg-box4-d .mbr-section-title {
+  text-align: center;
+}
+#msg-box4-d .mbr-section-title B {
+  font-size: 46px;
+}
+#msg-box4-d .lead P {
+  text-align: center;
+}
+#msg-box4-c .mbr-section-title {
+  color: #fff8e0;
+}
+#msg-box4-c .lead {
+  color: #e41919;
+}
+#msg-box4-c .mbr-section-title B {
+  font-size: 46px;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box4-c .lead P {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box4-c .lead I {
+  font-size: 30px;
+}
+#msg-box3-4 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-4 .lead I {
+  font-size: 30px;
+}
+#msg-box3-4 .lead {
+  color: #e41919;
+}
+#msg-box3-4 .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-4 .lead P {
+  font-size: 36px;
+}
+#contacts2-9 DIV {
+  color: #f1c050;
+}
